@@ -1,0 +1,248 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The black Dutch almanack or Predictions and astronimocall observations fore-shewing what will further happen to the king of Scots and other kings and commonwealths, from the aspects and conjunctions of the planets in their quotidian motions. Also a new prophesy found in Dutch, foretelling of a great fleet of ships and of Danes Sweds, &amp;c. to be seen this present year 1652. and bloody fights by sea and land, with variety of other matter concerning the English, the Hollander and the French.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76777</idno>
+            <idno type="STC">Wing B3043aA</idno>
+            <idno type="STC">Thomason E1372_1</idno>
+            <idno type="STC">ESTC R209337</idno>
+            <idno type="EEBO-CITATION">99868220</idno>
+            <idno type="PROQUEST">99868220</idno>
+            <idno type="VID">169866</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76777)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169866)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 179:E1372[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The black Dutch almanack or Predictions and astronimocall observations fore-shewing what will further happen to the king of Scots and other kings and commonwealths, from the aspects and conjunctions of the planets in their quotidian motions. Also a new prophesy found in Dutch, foretelling of a great fleet of ships and of Danes Sweds, &amp;c. to be seen this present year 1652. and bloody fights by sea and land, with variety of other matter concerning the English, the Hollander and the French.</title>
+               </titleStmt>
+               <extent>[16] p.   </extent>
+               <publicationStmt>
+                  <publisher>Print at Amsterdam, and reprinted at London by J. Clowes,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1651 [i.e. 1650]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Not in fact an almanac.</note>
+                  <note>Original not traced.</note>
+                  <note>Signatures: A.</note>
+                  <note>Annotation on Thomason copy: "Dec. 4. 1650"; 1 in imprint date crossed through.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685 --  Early works to 1800.</term>
+               <term>Astrology --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169866:1" rendition="simple:additions"/>
+            <p>The Black Dutch <hi>ALMANACK</hi> OR Predictions and Aſtronimo<g ref="char:EOLhyphen"/>call Obſervations fore-ſhewing what will further happen to the King of Scots and other Kings and Commonwealths, from the aſpects and conjunctions of the Planets in their Quotidian motions.</p>
+            <p>Alſo A new Propheſy ſound in Dutch, foretelling of a great fleet of ſhips and of Danes Sweds, &amp;c. to be ſeen this preſent year 1652. and bloody fights by Sea and Land, with variety of other matter concerning the Engliſh, the Hollander and the French.</p>
+            <figure>
+               <p>♋</p>
+               <figDesc>printer's device consisting of the goddess Diana wearing a moon crown with her bow, arrow, and dog</figDesc>
+            </figure>
+            <p>
+               <add>Dec. 4.</add> Print at <hi>Amſterdam,</hi> and reprinted at <hi>London</hi> by <hi>J. Clowes</hi> 1651.</p>
+            <pb facs="tcp:169866:2" rendition="simple:additions"/>
+            <pb facs="tcp:169866:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="astrological_almanac">
+            <pb facs="tcp:169866:3"/>
+            <pb facs="tcp:169866:3"/>
+            <head>Generall Aſtromicall Calcula<g ref="char:EOLhyphen"/>tions for the enſuing year 1652. foretell<g ref="char:EOLhyphen"/>ing what will happen to <hi>Charles Stu<g ref="char:EOLhyphen"/>art King of</hi> Scots, Lewis <hi>King of</hi> France, John <hi>King of</hi> Portugall, &amp;c.</head>
+            <p>FRom the influence of the Celeſtiall bodyes the laſt years black <hi>Almanack</hi> foretold the dread<g ref="char:EOLhyphen"/>full flaughter of the Scots Nation in the Mo<g ref="char:EOLhyphen"/>neth of <hi>September</hi> then following, and what we have ſeen to befall their King at the ſame time. in like manner the ſame Author hath taken upon him to draw ſome concluſions out of the rules of Aſtrona<g ref="char:EOLhyphen"/>my, to ſhew what will be the chief undertakings of him, and ſeverall other Kings this yeare, as you ſhall find it ſet down in the Predictions for every Moneth. And although you have already ſeverall ſorts of Di<g ref="char:EOLhyphen"/>viners in this kind, which ſpeak more like unto the anſwers from the heathen <hi>Oracles,</hi> then to the under<g ref="char:EOLhyphen"/>ſtanding of the people, yet that which is here perfor<g ref="char:EOLhyphen"/>med (not diſpiſing others) is done in ſuch familiar words, and by ſuch a rule of certainty as will not
+<pb facs="tcp:169866:4"/>Slightly be condemned for falſhood, or like a noſe o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> wax with a little help be turned any way. There is a Dutch Propheſie written many yeares ſince by one <hi>John Fluſheers</hi> a man of great learning, lately come to light in theſe words in Engliſh;
+<q>
+                  <l>A King for are ſhall flye a pace o're Brittains fields with feare.</l>
+                  <l>When two Eclips in one moneth ſhall happen to appeare.</l>
+                  <l>To <hi>Holland</hi> then for ſuccour hee ſhall ſeek to make eſcape.</l>
+                  <l>And if no refuge there be found: To France hee takes hie race.</l>
+                  <l>The Chirkins wings are ſorely clipt, and n'ere ſhal plumed be.</l>
+                  <l>Though Denmark, Sweden, florence, ſhall ſend out a fleet to Sea.</l>
+               </q>
+            </p>
+            <p>
+               <figure>
+                  <p>ARIES ♈</p>
+                  <p>TAURUS ♉</p>
+                  <p>GEMINI ♊</p>
+                  <p>CANCER ♋</p>
+                  <p>LEO ♌</p>
+                  <p>VIRGO ♍</p>
+                  <p>LIBRA ♎</p>
+                  <p>VIRGO ♍</p>
+                  <p>VIRGO ♏</p>
+                  <p>SAGI<gap reason="illegible" extent="7 letters">
+                        <desc>〈7 letters〉</desc>
+                     </gap> ♐</p>
+                  <p>CAPRIC<gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> ♑</p>
+                  <p>AQUA ♒</p>
+                  <p>PISSES ♓</p>
+                  <figDesc>zodiac man (man of signs)</figDesc>
+               </figure>
+            </p>
+            <div n="January" type="month">
+               <pb facs="tcp:169866:4"/>
+               <head>Januaries Predictions.</head>
+               <p>THe new <hi>January</hi> begins at the Hague at ſuch time as <hi>Sol</hi> enters into <hi>Aquarius,</hi> and <hi>Jupi<g ref="char:EOLhyphen"/>ter</hi> in <hi>Vergo</hi> which preſageth diverſitie of Councells, and no good to the Butter-boxes, and if they contend with <hi>England,</hi> their black Coun<g ref="char:EOLhyphen"/>cells will returne upon their own heads, <hi>Saturne</hi> with them is aſcendent which threatens mortalli<g ref="char:EOLhyphen"/>ty, and many other e<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ils and miſchiefs, and if they are not thankfull for what they have, or ungrate<g ref="char:EOLhyphen"/>full to old friends, they are threatned to be ſcour<g ref="char:EOLhyphen"/>ged ſoundly, for this whole yeare together; This ſeaſon is like to prove very cold, and if the Snow lye not too thick, a man will be ſeen to ſlide eight miles in a morning to Market with a Basket of Eggs upon his head, and an old woman that drops a Polonia Saſſage by the way, and meets with it a<g ref="char:EOLhyphen"/>gaine, at her return; will hardly be at the pains to carry it home again to ſhew it. Some great per<g ref="char:EOLhyphen"/>ſons that doated much upon Chriſtmas are likely to dye this moneth with Gormandizing; The men of <hi>Rotterdam</hi> will be much adicted to ſtoath and idlenſſe, in ſo much that for the moſt part the women ſhall manage the chiefeſt affaires in the way of Trade &amp; commerce, whilſt their Husbands are taſting their Liquor, and fill their panches therewith to the brim. This ſeaſon will hardly afford any roaſted Pigions flying in the Ayre, but a fat Gooſe at the Kitchin fire will ſmell very kindly:</p>
+            </div>
+            <div n="February" type="month">
+               <pb facs="tcp:169866:5"/>
+               <head>Februaries Predictions.</head>
+               <p>
+                  <hi>SOl</hi> in <hi>Pifes</hi> and <hi>Saturne</hi> in <hi>Canſer, Venus</hi> is of very little force, for <hi>Mars</hi> hath a ſtrong influ<g ref="char:EOLhyphen"/>ence, and rather then he will be unfurniſhed with Inſtruments to do his work, a contention is likely to ariſe between three ſorts of men of Eminent Coats, <hi>viz.</hi> the Buffe coat, the Black and the Gray coat, The two latter whereof, do grudge and re<g ref="char:EOLhyphen"/>pine at the firſt for that they think his Coat the richer and moſt durable, but theſe conteſts are not likely to receive any determimation as yet, for that many ſudden fears and unlookt for occaſions are ready to break forth, And <hi>Saturne</hi> begins to vex exceedingly in theſe parts of the world, he being the principall figure o ſignifier of diſturbance, ſor<g ref="char:EOLhyphen"/>row, melancholy, malice, treachery, and the like, ſome Meſſage is preparing for <hi>England,</hi> and ſome ſmooth Overture, ſome harme will befall the Dutch at Sea, either by a ſtormy fight, or boy<g ref="char:EOLhyphen"/>ſterous winds, ſome eminent action is foreſeen to be done by the Engliſh Northward, but that may rather be expected to fall out by Land then by Sea. Some ſuttle heads with fine gay antick Gar<g ref="char:EOLhyphen"/>ments, and ſober men will act the part of Madde fooles.</p>
+            </div>
+            <div n="March" type="month">
+               <pb facs="tcp:169866:5"/>
+               <head>Marches Predictions.</head>
+               <p>THe great <hi>Luminary</hi> of the world happens to be Eclipſt this preſent Moneth on the 29. day which will be more viſible in <hi>England</hi> then in <hi>Holland,</hi> and the effects greater, eſpecially among the poorer ſort, who are like to have their pock<g ref="char:EOLhyphen"/>ets Eclipſt many Moneths after. The Sun enters <hi>Aries,</hi> A fiery ſign and doth predict chollerick mutations, yet hapily there may be a reconſilia<g ref="char:EOLhyphen"/>tion, ſome of the learned have troubled them<g ref="char:EOLhyphen"/>ſelves to branch out the ſeverall effects that may ariſe from Eclipſes, and yet have but like unto blind men, ſometimes hit the mark; I hope to be more certaine in my predictions, for as the time now is, we may without error affirme that ſuch as are invectively malitious againſt the Govern<g ref="char:EOLhyphen"/>ment under which they live, will at laſt be found out and ſuffer an Eclips of thoſe priviledges which otherwiſe they might have enjoyed under the ſame. The worſt aſpect this Eclips hath upon <hi>Holland</hi> is the troublſomneſſe of the Seas, a miſ<g ref="char:EOLhyphen"/>chief not eaſily diſgeſted, nor of unvalued con<g ref="char:EOLhyphen"/>cernment to ſelf ends. The wetneſſe of the for<g ref="char:EOLhyphen"/>mer ſeaſon will produce a rot amongſt ſheep, and women will be generally inclined quickly to for<g ref="char:EOLhyphen"/>get their Husbands if once they can bury them.</p>
+            </div>
+            <div n="April" type="month">
+               <pb facs="tcp:169866:6"/>
+               <head>Aprills Predictions.</head>
+               <p>GReat diviſions in Councells, this Moneth are like to ariſe from the diverſity of influences of the Celeſtiall bodyes, if there be not ſome jug<g ref="char:EOLhyphen"/>ling, the Scots King may find aſsſtance from ſe<g ref="char:EOLhyphen"/>verall places and raiſe new fears in <hi>England;</hi> great troubles are in <hi>France</hi> and feares ariſe in ſeverall parts by reaſon of the hight of the Engliſh State, Portugale is much troubled, and let Kings and Portugalis now loo<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to themſelves, for when Sa<g ref="char:EOLhyphen"/>turne hath a Quadrat aſpect with the Sun, great grief, ſorrow, want and miſhape ſhall befall unto Kings and chief Governours, friends faile in their promiſes and great cauſe of feare and diſcontent on all ſides, great moiſtneſſe is to be expected this Moneth, and he that goes while he finds an Appell or Peare growing upon a Tree had need put on a new paire of Shooes; The fineſt wit is apt to commit the greateſt folly, and ſome Poets will love to play the foole when men of a com<g ref="char:EOLhyphen"/>mon ſufficiency deſerve commendations, being more plyable and willing to ſubmit to their Supe<g ref="char:EOLhyphen"/>riours, and if the Engliſh State dive narrowly into the conſtitution of ſome of that Nation, they will find moſt men eaſier to follow, then to be led by force, like unto generous horſes, that are better governed with an eaſie bridle then a cut<g ref="char:EOLhyphen"/>ting bitt.</p>
+            </div>
+            <div n="May" type="month">
+               <pb facs="tcp:169866:6"/>
+               <head>Mayes Predictions.</head>
+               <p>OH <hi>Monſtrum horrendum,</hi> more ill news from Sea arrives at the Hrgue? if the differences are not now compoſed betwixt the Engliſh and the Hollander, a ſquadron of <hi>Vantrumps</hi> will be in danger about this time, ſome black deſignes are probably diſcovered againſt the Engliſh Common wealth, and <hi>Holland</hi> hath cauſe to cleave to ſome ſure friends in alliance, the Planets ſeem not to favour the <hi>French</hi> with abillity to aſsiſt them in time of danger; It is an ill wind blowes no bo<g ref="char:EOLhyphen"/>dy good, but the conſtellations of the heavens brings it not to thee, great news expected from the Dutch Ambaſſadors in <hi>England;</hi> The Soul<g ref="char:EOLhyphen"/>diers ſwell with fury, the Citizens minds riſe high, and moſt mens ſpirits are elevaed, and the heavens decrees are immutable, and I cannot find any good aſpects upon the <hi>French.</hi> Now is the time for Kings to loſe all or win all, and if that King hath not by this time ſetled a peace with the Princes, the King may be glad to offer another Treaty, for ſear of an Engliſh Deſigne to be ſuddenly put in execution, and their minds are in miſerable per<g ref="char:EOLhyphen"/>plexity, that are troubled with what is like to happen hereafter.</p>
+            </div>
+            <div n="June" type="month">
+               <pb facs="tcp:169866:7"/>
+               <head>Junes Predictions,</head>
+               <p>THe <hi>Sun</hi> in <hi>Cancer</hi> and <hi>Saturn</hi> in a Quadrat is as bad or worſe then the former, yet do I gueſſe this aſpect will not be of any great force in <hi>Holland</hi> or in <hi>England,</hi> the worſt I can find un<g ref="char:EOLhyphen"/>to them is the death of ſome of thoſe that ſit at the helm unlamented, many pyracies committed by Sea, great bloodſhed in <hi>France,</hi> if the Spani<g ref="char:EOLhyphen"/>ard have a fight with the French, about this time, he is likely to prevail, ſome great remoraes of an e<g ref="char:EOLhyphen"/>minency ſounds abroad beyond hour hori<g ref="char:EOLhyphen"/>zon; what it ſhould be I gueſſe not, unleſſe it ſhould be of ſome great Fleet at Sea, it may be onely a report of new Levies for the Scots King, in <hi>Denmark</hi> or <hi>Scotland</hi> or both, yet of any place, let not the <hi>Scots</hi> think to thrive this year, <hi>Saturn</hi> and <hi>Mars,</hi> &amp;c. are tranſcendent with them and before ſummer is ended, their Royal Black<g ref="char:EOLhyphen"/>coats will not dare to ſhew their teeth, and <hi>Sa<g ref="char:EOLhyphen"/>turn</hi> being paſsing through a <hi>Quadrat</hi> preſageth fear, terror, and treachery in that Nation, but the Aſpect is yet better in <hi>Holland,</hi> if they trou<g ref="char:EOLhyphen"/>ble not the water, or love to fiſh in ſuch, they may live at quiet, but if otherwiſe, they muſt ſmart as well as the reſt.</p>
+            </div>
+            <div n="July" type="month">
+               <pb facs="tcp:169866:7"/>
+               <head>Julies Predictions.</head>
+               <p>WHy do not the Commons of <hi>France</hi> ſtir with more activity to promote their own liberty, and freedoms, help is promiſed, if the <hi>Dutch</hi> are not bad neighbours. The Starres do threaten ſome contention, if not loſſe at Sea, by the <hi>Dutch,</hi> if they are hinderers of a noble Deſign, they will have time to repent of it, and ſmart for it too: both in <hi>Italy, Venice, Florence,</hi> and other of the Eaſtern Countreys, they are vexed with War, Blague, or Famine; ſome ſtrange news is produced at this time out of the Northern Coun<g ref="char:EOLhyphen"/>treys, I ſhall ſay little of the Conjunctions this Moneth, but the Aſpects are good for thoſe that are getting, therefore it cannot be good to give much where is but little honour, greatneſſe, riches dignities and tryumphs are appointed for thoſe, that know how to afflict trouble and deſtroy o<g ref="char:EOLhyphen"/>thers; Two ſorts of People are alwayes to be feared, The rich for their own ſakes, their vice, and condition; The poore by reaſon of their ne<g ref="char:EOLhyphen"/>ceſsities and imprudence. This ſigne will have great influence upon ſuch as are accuſtomed to ill language, eſpecially among women which uſe to ſcould a their Husbands.</p>
+            </div>
+            <div n="August" type="month">
+               <pb facs="tcp:169866:8"/>
+               <head>Auguſts Predictions.</head>
+               <p>THe noyſome heat of the Dog-ſtar will vex many this moneth, eſpecially ſuch as live in hot Countries, beſides the generall influ<g ref="char:EOLhyphen"/>ence of the Plannets foretell ill ſucceſſe to Kings, and chiefly to <hi>John</hi> King of <hi>Poetugal,</hi> and <hi>Lewis</hi> King of <hi>Frnace.</hi> It is naught ſwallowing of Bul<g ref="char:EOLhyphen"/>lets this moneth, yet I fear a great ſlaughter of men, and a generall calamity amongſt other crea<g ref="char:EOLhyphen"/>tures. God preſerve the Northern Countries from the Plague, or ſome other infectious diſeaſe, moſt mens deeds are ſo helliſh and black, that all judge<g ref="char:EOLhyphen"/>ments threatned (without the prevention of the Almighty) may juſtly pull down from heaven a Deluge of ſorrow, yet for theſe parts of the world, I have better hopes, for with us, <hi>Sol</hi> haſt<g ref="char:EOLhyphen"/>eth to the Triangle of <hi>Jupiter,</hi> as if Providence had diſpoſed a ſudden concluſion of our troubles; and there is promiſed high and honourable things to be done by Free States, in which <hi>England</hi> ſeemeth to get the preeeminence in glory and greetneſſe, and that perſons in power ſhall rejoyce and gain victorie over their enemies of what Na<g ref="char:EOLhyphen"/>tion ſoever, yet it is not ſo, but ſome men are in miſerie, and not redreſſed.</p>
+            </div>
+            <div n="September" type="month">
+               <pb facs="tcp:169866:8"/>
+               <head>Septembers Predictions</head>
+               <p>Aſtrange diaſter, about this time or perhaps in the forgoing Moneth is threatned, There be ſome men that nothing can ſatisſie, who would think that ſuch as have already (and if occaſion be, will again) joyned in one, againſt the Common Enemy ſhould not agree amongſt themſelves; but either in envigh, becauſe other men are in greater places then themſelves, or ſome other ſelf-ends are repining, yea, and it may be impeaching one ano<g ref="char:EOLhyphen"/>ther, many piracyes are daily heard of to be com<g ref="char:EOLhyphen"/>mitted at Sea. A great battle is likely to be fought in France, where ſome King or great perſon is like to fal: Something may naturally be calculated from the influence of the Celeſtial bodyes of ſom further misfortune to the Scots King, either by a fall or a ſhot from his horſe: The two Eclipſes in one Moneth <hi>viz.</hi> one of the Sun and another of the Moon in March laſt, affoard very much matter to work upon, and invites the Engliſh to a recon<g ref="char:EOLhyphen"/>cilirtion in judgement, very ſtrange intelligence comes from ſeverall parts. This is the time that wiſemen will do nothing but for themſelves, and ſay, that there is no reaſon that ways, that wiſdom ſhould put themſelves in danger for fools.</p>
+            </div>
+            <div n="October" type="month">
+               <pb facs="tcp:169866:9"/>
+               <head>Octobers Predictions.</head>
+               <p>
+                  <hi>SOL</hi> enters <hi>Scorpio,</hi> and an oppoſition with <hi>Sa<g ref="char:EOLhyphen"/>turn,</hi> certainly this will be a time of great con<g ref="char:EOLunhyphen"/>ſultation in <hi>England</hi> and <hi>Holland,</hi> yet a Quadra for many dayes with <hi>Mars</hi> ſignifies much blood ſhed in <hi>France, Ireland,</hi> and ſome other places, ſome ſtrivings amongſt great perſons conſequent<g ref="char:EOLhyphen"/>ly follows about the nullifying of ſome thing for<g ref="char:EOLhyphen"/>merly decreed, or had been long in uſe: by this time much may be done in order to the equall ad<g ref="char:EOLhyphen"/>miniſtration of Juſtice in ſeverall places where it hath in part been neglected, then happy are the people that live under ſuch a Government, yea thrice happy are they, if that a diſſembling flatte<g ref="char:EOLhyphen"/>rer, or inſinuating Paraſite, (the worſt vermine in a Common wealth) hath not an office himſelf of truſt, or at leaſt ſome honeſt man in great power to ſpeak for him; Its an ill wind blows no body good, but the influence of the heavens ſeems to be very ſparing where to beſtow. All men will not be of one mind, either in <hi>Holland, Spain, Ita<g ref="char:EOLhyphen"/>ly, France, Germany, England</hi> or <hi>Scotland,</hi> although the Sun goes round all the world over.</p>
+            </div>
+            <div n="November" type="month">
+               <pb facs="tcp:169866:9"/>
+               <head>Novembers Predictions</head>
+               <p>THe Starres yet fight againſt many great ones, eſpecially Princes and Potentates, if <hi>Spain</hi> loſeth not what fortune ſeems to favour them with, they may inlarge their, intereſt, both in <hi>France</hi> and <hi>Portugall,</hi> yet many do willingly en<g ref="char:EOLhyphen"/>dure multitudes of evills, beſides thoſe that are naturally incident to them; ſome men are like to be rackt in pieces for the offences long after doubted, and becauſe a man ought not to be pu<g ref="char:EOLhyphen"/>niſhed without juſt cauſe: ſometimes puniſhments are inflicted worſe then death, thoſe that are ſet<g ref="char:EOLhyphen"/>led States are like ſo to continue, notwithſtand<g ref="char:EOLhyphen"/>ing all the threats, and plots of their enemies. Some of our Burgamaſters are like to receive great loſſes abroad, and yet in danger of being queſtioned for their unjuſt dealings at home. The Cat is in love with fiſh, but hath no mind to wet her feet. Be merry while you may, the Chickens are waſhing, but to my grief I ſhall find but few roſting in the poore mans Kitchin.</p>
+            </div>
+            <div n="December" type="month">
+               <pb facs="tcp:169866:10"/>
+               <head>Decembers Predictions.</head>
+               <p>
+                  <hi>SOL</hi> enters, <hi>Virgo</hi> is paſſing into an oppoſition with <hi>Luna,</hi> the next is a Triangle, and ſo fal<g ref="char:EOLhyphen"/>eth into a <hi>Quadrat,</hi> alſo Saturn firſt paſſeth through a <hi>Quadrat.</hi> Let young men forbear to <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> a wooing, till <hi>Venus</hi> comes into a <hi>Sextile,</hi> which <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ill be the ſixteenth day of this moneth, and then its probable they will find efficacy the fruits of their deſires. Some honeſt minded men do ma<g ref="char:EOLhyphen"/>nifeſt their deſires to beget a right underſtanding indifferences, and waſh, and labour to make the Blackamoore white. It is not good to be dipt too deep this moneth for fear of a Quartane Ague, w<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nt of money will give ſuch a check to <hi>Bachuns,</hi> that he will not be ſuch a devourer this moneth, as he hath been in former times.</p>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
